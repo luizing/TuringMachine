@@ -5,4 +5,6 @@ Trabalho final da cadeira "Seminários de Programação" do curso Ciências Da C
 
 Para compilar o programa, recomenda-se usar o site "https://turingmachinesimulator.com/"
 
+Nota: 10
+
 09/2021
